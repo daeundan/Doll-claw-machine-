@@ -578,11 +578,3 @@ a {
 a:hover {
   text-decoration: underline;
 }
-
-@media (max-width: 768px) {
-  /* 모바일 화면 적용 */
-  .title {
-    font-size: 15px;
-    top: 0;
-  }
-}
