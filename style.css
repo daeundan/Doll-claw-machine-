@@ -585,6 +585,6 @@ a:hover {
     bottom: 66%;
     left: 34%;
     margin-bottom: 10px;
-    z-index: 1000; /* 다른 요소 위에 배치 */
+    z-index: 1000;
   }
 }
